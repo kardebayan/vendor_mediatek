@@ -1,0 +1,4 @@
+optional_subdirs = [
+    "frameworks/opt/*",
+    "packages/services/*"
+]
